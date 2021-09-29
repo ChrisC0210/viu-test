@@ -1,7 +1,10 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <div class="flex justify-center">
+  <img class=" " alt="Vue logo" src="./assets/logo.png">
+  </div>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
+
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
