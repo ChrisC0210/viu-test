@@ -25,3 +25,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### ref
 link [Vue-Cli 4 + Tailwind JIT 專案建置](https://hackmd.io/@lalarabbits/vuecli-4-tailwind-jit-installation).
+
+### preview
+https://chrisc0210.github.io/viu-test/
